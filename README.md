@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0684-redundant-connection) |
+| [1035-cousins-in-binary-tree](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0684-redundant-connection) |
+| [1035-cousins-in-binary-tree](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1035-cousins-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -37,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0684-redundant-connection) |
+## Tree
+|  |
+| ------- |
+| [1035-cousins-in-binary-tree](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1035-cousins-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1035-cousins-in-binary-tree](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1035-cousins-in-binary-tree) |
 <!---LeetCode Topics End-->
