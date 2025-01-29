@@ -21,4 +21,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0010-regular-expression-matching) |
+## Depth-First Search
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0684-redundant-connection) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0684-redundant-connection) |
+## Union Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0684-redundant-connection) |
+## Graph
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
