@@ -1,5 +1,5 @@
 class Solution {
-public int[] findRedundantConnection(int[][] edges) {
+    public int[] findRedundantConnection(int[][] edges) {
         UnionFind uf = new UnionFind(edges.length);
         for (int[] edge : edges) {
             int first = uf.find(edge[0] - 1);
