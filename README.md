@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0854-making-a-large-island](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -64,17 +66,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0400-nth-digit) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0400-nth-digit) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
