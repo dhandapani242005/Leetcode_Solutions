@@ -1,25 +1,12 @@
 class Solution {
-    public int missingNumber(int[] arr) {
-
-        int num=0;
-        for (int i=0; i<arr.length; i++){
-            for(int j=i+1; j<arr.length; j++){
-                if(arr[i]>arr[j]){
-                    num=arr[j];
-                    arr[j]=arr[i];
-                    arr[i]=num;
-                }
-            }
+    public int missingNumber(int[] nums) {
+        int missing = nums.length;  // Start with 'n'
+        
+        // XOR all indices and array values
+        for (int i = 0; i < nums.length; i++) {
+            missing ^= i ^ nums[i];  // XOR index and value
         }
-
-        for (int i=0; i<arr.length; i++){
-           if(arr[i] != i){
-            return i;
-            }
-            if(arr[arr.length-1] ==arr[i]){
-                return i+1;
-            }
-        }
-        return 0 ;
+        
+        return missing;  // The missing number remains
     }
 }
