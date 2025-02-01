@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0696-count-binary-substrings](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
+| [0742-to-lower-case](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0742-to-lower-case) |
 | [1812-reformat-phone-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1812-reformat-phone-number) |
 ## Dynamic Programming
 |  |
