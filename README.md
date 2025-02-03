@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0268-missing-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0400-nth-digit) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0854-making-a-large-island](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
