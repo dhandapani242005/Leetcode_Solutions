@@ -1,14 +1,16 @@
 class Solution {
     public boolean searchMatrix(int[][] arr, int num) {
-        int a = arr.length;
-        int b = arr[0].length;
-         for (int i=0; i<a; i++){
-            for (int j=0; j<b; j++){
-                if(arr[i][j] == num){
-                    return true;
-                }
-            }
-        }  
-        return false; 
-    }     
+        int m = arr.length;
+        int n = arr[0].length;
+        
+        int row = 0, col = n - 1; // Start from the top-right corner
+        
+        while (row < m && col >= 0) {
+            if (arr[row][col] == num) return true; // Found the target
+            else if (arr[row][col] < num) row++; // Move downward
+            else col--; // Move leftward
+        }
+        
+        return false; // Target not found
+    }
 }
