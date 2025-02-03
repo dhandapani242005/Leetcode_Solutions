@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
 | [1035-cousins-in-binary-tree](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1035-cousins-in-binary-tree) |
@@ -60,10 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1035-cousins-in-binary-tree) |
 ## Two Pointers
 |  |
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0898-transpose-matrix](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0669-trim-a-binary-search-tree) |
 <!---LeetCode Topics End-->
