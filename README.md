@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0240-search-a-2d-matrix-ii](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0854-making-a-large-island](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0400-nth-digit) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0854-making-a-large-island](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1041-available-captures-for-rook) |
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
