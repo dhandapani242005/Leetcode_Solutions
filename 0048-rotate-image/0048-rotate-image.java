@@ -9,7 +9,7 @@ class Solution {
                         arr[i][j]=temp;
                 }       
             }
-             }
+        }
         for(int i=0;i<r; i++){
             int a = 0;
             int z = r-1; 
@@ -19,10 +19,7 @@ class Solution {
                 arr[i][a]=temp;
                 a++;
                 z--;
-            }
-           
-
+            }  
         }
-
     }       
 }
