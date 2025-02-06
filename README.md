@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0010-regular-expression-matching) |
+| [0206-reverse-linked-list](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
