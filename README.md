@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0227-basic-calculator-ii](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0657-robot-return-to-origin](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0742-to-lower-case) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0227-basic-calculator-ii](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0400-nth-digit) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0227-basic-calculator-ii](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Counting
 |  |
