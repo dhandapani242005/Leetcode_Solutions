@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0696-count-binary-substrings](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
