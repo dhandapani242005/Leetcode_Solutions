@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     private int getSum(int n) {
         int sum = 0;
