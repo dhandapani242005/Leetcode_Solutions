@@ -9,8 +9,8 @@ class Solution {
                 out[0] = i;
                 out[1] = j;
                 break;     
-            }
                 }
+            }
         }
            
     }
