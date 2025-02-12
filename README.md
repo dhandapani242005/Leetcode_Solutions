@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1041-available-captures-for-rook) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
