@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1041-available-captures-for-rook) |
+| [1477-product-of-the-last-k-numbers](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0400-nth-digit) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1477-product-of-the-last-k-numbers](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [3462-vowels-game-in-a-string](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Binary Search
 |  |
@@ -218,4 +220,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
