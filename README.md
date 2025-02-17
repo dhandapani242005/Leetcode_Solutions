@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1160-letter-tile-possibilities](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0742-to-lower-case) |
+| [1160-letter-tile-possibilities](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1812-reformat-phone-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1812-reformat-phone-number) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Linked List
 |  |
@@ -232,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
