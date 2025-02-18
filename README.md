@@ -239,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
