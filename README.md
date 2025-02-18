@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-reformat-phone-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1812-reformat-phone-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3462-vowels-game-in-a-string](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Counting
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Database
 |  |
 | ------- |
