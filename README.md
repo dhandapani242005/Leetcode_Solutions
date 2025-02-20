@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0742-to-lower-case) |
 | [1160-letter-tile-possibilities](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1812-reformat-phone-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1812-reformat-phone-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Database
 |  |
