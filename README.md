@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
 | [1035-cousins-in-binary-tree](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1558-course-schedule-iv) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
 | [1035-cousins-in-binary-tree](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1558-course-schedule-iv) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Union Find
 |  |
@@ -97,12 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0684-redundant-connection) |
 | [1558-course-schedule-iv](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Tree
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1035-cousins-in-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
