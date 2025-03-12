@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0227-basic-calculator-ii](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0292-nim-game) |
 | [0400-nth-digit](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0400-nth-digit) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -182,10 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0292-nim-game) |
 | [3462-vowels-game-in-a-string](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0292-nim-game) |
 | [3462-vowels-game-in-a-string](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Topological Sort
 |  |
