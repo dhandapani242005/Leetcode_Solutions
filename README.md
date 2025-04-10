@@ -67,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0010-regular-expression-matching) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1477-product-of-the-last-k-numbers](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Binary Search
 |  |
