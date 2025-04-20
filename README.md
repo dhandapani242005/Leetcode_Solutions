@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0696-count-binary-substrings](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 | [2551-apply-operations-to-an-array](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0400-nth-digit) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
