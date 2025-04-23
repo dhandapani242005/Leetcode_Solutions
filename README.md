@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1041-available-captures-for-rook) |
 | [1477-product-of-the-last-k-numbers](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
