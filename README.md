@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0898-transpose-matrix) |
+| [1018-largest-perimeter-triangle](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1041-available-captures-for-rook](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1041-available-captures-for-rook) |
 | [1477-product-of-the-last-k-numbers](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0292-nim-game) |
 | [0400-nth-digit](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0400-nth-digit) |
 | [0797-rabbits-in-forest](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1477-product-of-the-last-k-numbers](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0506-relative-ranks) |
+| [1018-largest-perimeter-triangle](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Divide and Conquer
