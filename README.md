@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2048-build-array-from-permutation) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [1018-largest-perimeter-triangle](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Divide and Conquer
 |  |
