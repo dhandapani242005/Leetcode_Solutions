@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Binary Search
 |  |
 | ------- |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/dhandapani242005/Leetcode_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Linked List
 |  |
 | ------- |
